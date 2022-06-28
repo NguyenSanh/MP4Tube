@@ -9,4 +9,5 @@ Have you ever come across a video on YouTube you loved so much? Enough to want t
 Simply run the Python file in your own IDE and the application window should appear in seconds.
 
 
-
+# How To Use
+Paste a YouTube video link into the application and click download. The downlodad will appear in the IDE you choose to run the application on. You can also choose a path location in your explorer to save the video in.
