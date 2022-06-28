@@ -1,2 +1,12 @@
 # Inspiration for YouTubeToMP4
 Have you ever come across a video on YouTube you loved so much? Enough to want to download it into your local system/device? Well, with this YouTube to MP4 software, countless of YouTube videos are now ready to download at your disposal.
+
+# Preconditions
+- Intall a Python IDE such as PyCharm, IDLE, or Visual Studio Code
+- Run pip install moviepy and pip install pytube into your local terminal
+
+# Run YouTubeToMP4
+Simply run the Python file in your own IDE and the application window should appear in seconds.
+
+
+
