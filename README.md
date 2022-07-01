@@ -1,3 +1,5 @@
+![App Preview](AppPreview.png)
+
 # Software Used
 - Python
 - Visual Studio Code 
