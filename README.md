@@ -1,4 +1,4 @@
-![Application](C:\Users\nguye\OneDrive\Documents\YouTube\logo.png)
+![Application](\Users\nguye\OneDrive\Documents\YouTube\logo.png)
 
 # Software Used
 - Python
