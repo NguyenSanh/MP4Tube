@@ -1,4 +1,4 @@
-![App Preview](AppPreview.png)
+![App Preview](MP4Tube_Preview.png)
 
 # Software Used
 - Python
